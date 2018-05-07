@@ -1,0 +1,22 @@
+section{
+    background-color: lightsteelblue;
+}
+
+#intro{
+    color: red;
+    background-color: fuchsia;
+}
+
+.test{
+    font-weight: bold;
+    color: yellow;
+}
+
+p{
+    color: blue;
+}
+
+section > p.test{
+    background-color: orange;
+    color: green;
+}
